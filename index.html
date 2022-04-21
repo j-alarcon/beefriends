@@ -8,11 +8,11 @@
     <link rel="stylesheet" href="css/position.css">
     <link rel="stylesheet" href="css/responsive.css">
 </head>
-<body>
-    <header class="header darkblue flex whiteText">
+<body class="flex column">
+    <header class="header darkblue flex justifySpaceAround whiteText">
         <h1>Beefriends</h1>
         <nav class="nav">
-            <ul class="flex">
+            <ul class="flex justifySpaceAround">
                 <li>
                     <a class="whiteText" href="#">header link one</a>
                 </li>
@@ -25,19 +25,19 @@
             </ul>
         </nav>
     </header>
-    <main>
-        <section class="darkblue big-section flex alignCenter">
+    <main class="main flex column">
+        <section class="darkblue big-section flex alignCenter justifyCenter">
             <article class="whiteText">
                 <h2>This website is awesome</h2>
-                <p>
+                <p class="subtitles">
                     This website has some subtext that goes here 
                     under the main title. It's a smaller font and
                     the color is lower contrast.
                 </p>
-                <button>Sign up</button>
+                <button class="lightblue whiteText roundCorners bold">Sign up</button>
             </article>
             <article>
-                <img src="placeholder" alt="Placeholder">
+                <img class="img-big" src="img/beeholder.jpg" alt="Bee over a pink flower">
             </article>
         </section>
         <section>
@@ -83,7 +83,7 @@
             </article>
         </section>
     </main>
-    <footer>
+    <footer class="darkblue whiteText flex alignCenter justifyCenter">
         <p>Copyright © Javier Alarcón</p>
     </footer>
 </body>

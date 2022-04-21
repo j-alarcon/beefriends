@@ -2,32 +2,42 @@
     display: flex;
 }
 
+.column{
+    flex-direction: column;
+}
+
+.justifyCenter{
+    justify-content: center;
+}
+
 .alignCenter{
     align-items: center;
 }
 
-.whiteText{
-    color: white;
-}
-
-.header{
+.justifySpaceAround{
     justify-content: space-around;
-    padding: 10px 0 0 0;
 }
 
-.header h1{
-    font-size: 1.4rem;
+.main{
+    flex: 1;
 }
 
-ul{
-    justify-content: space-around;
-    width: 500px;
-    font-size: .9rem;
+section.big-section article:first-child{
+    width: 456px;
 }
 
-.big-section{
-    height: 400px;
-    justify-content: center;
-    gap: 20px;
+h2{
+    width: 300px;
+    font-size: 2.2rem;
 }
+
+.img-big{
+    width: 400px;
+    height: auto;
+}
+
+footer{
+    height: 100px;
+}
+
 
