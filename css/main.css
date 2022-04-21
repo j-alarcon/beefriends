@@ -35,11 +35,17 @@
 }
 
 .header{
+    height: 120px;
     padding: 10px 0 0 0;
 }
 
 .header h1{
     font-size: 1.4rem;
+}
+
+.header img{
+    background-color: white;
+    width: 60px;
 }
 
 ul{
