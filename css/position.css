@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+}
+
+.header{
+    justify-content: space-around;
+    align-items: center;
+    font-size: .9rem;
+}
+
+.nav{
+    
+}
+
+.whiteText{
+    color: white;
+}
