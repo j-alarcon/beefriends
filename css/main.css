@@ -6,6 +6,16 @@
     background-color: #3782f0;
 }
 
+.grey{
+    background-color: grey;
+}
+
+.lightBlueBorder{
+    border: 4px solid #3782f0;
+}
+
+
+
 .bold{
     font-weight: bold;
 }
@@ -15,7 +25,7 @@
 }
 
 .roundCorners{
-    border-radius: 5px;
+    border-radius: 7px;
 }
 
 .subtitles{
@@ -58,10 +68,38 @@ h2{
     height: auto;
 }
 
+.img-medium{
+    width: 200px;
+    height: auto;
+}
+
 section.big-section button{
     border: none;
     padding: 5px 25px 5px 25px;
     margin-top: 15px;
+}
+
+h3{
+    font-size: 1.6rem;
+}
+
+.gallery{
+    height: 400px; 
+    text-align: justify;
+    gap: 40px;
+}
+
+section.gallery article{
+    width: 1000px;
+} 
+
+.item-gallery{
+    width: 180px;
+    gap: 7px;
+}
+
+.quote{
+    width: 500px;
 }
 
 footer{
