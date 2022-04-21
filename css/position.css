@@ -22,5 +22,22 @@
     flex: 1;
 }
 
+section.big-section article:first-child{
+    width: 456px;
+}
+
+h2{
+    width: 300px;
+    font-size: 2.2rem;
+}
+
+.img-big{
+    width: 400px;
+    height: auto;
+}
+
+footer{
+    height: 100px;
+}
 
 
