@@ -7,17 +7,19 @@
 }
 
 .grey{
-    background-color: grey;
+    background-color: rgb(212, 212, 212);
 }
 
 .lightBlueBorder{
     border: 4px solid #3782f0;
 }
 
-
-
 .bold{
     font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
 }
 
 .whiteText{
@@ -98,8 +100,20 @@ section.gallery article{
     gap: 7px;
 }
 
+.container-quote{
+    height: 250px;
+}
+
 .quote{
     width: 500px;
+}
+
+.quote p:not(p.author){
+    font-size: 1.2rem;
+}
+
+.author{
+    align-self: flex-end;
 }
 
 footer{
