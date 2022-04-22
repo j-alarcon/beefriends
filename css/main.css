@@ -6,8 +6,12 @@
     background-color: white;
 }
 
-.text-shadow{
+.text-shadow-big{
     text-shadow: 2px 2px black;
+}
+
+.text-shadow-tiny{
+    text-shadow: 1px 1px black;
 }
 
 .text-height{
@@ -25,6 +29,7 @@
 .white-text{
     color: white;
 }
+
 
 .black-text{
    color: black;
