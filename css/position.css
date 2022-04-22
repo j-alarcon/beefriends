@@ -18,6 +18,10 @@
     justify-content: space-around;
 }
 
+.header{
+    position: fixed;
+}
+
 .main{
     flex: 1;
 }
