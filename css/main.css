@@ -199,6 +199,10 @@ section.gallery article{
     padding: 5px 40px 5px 40px;
 }
 
+button:hover{
+    background-color: purple;
+}
+
 footer{
     height: 100px;
 }
