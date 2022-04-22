@@ -24,9 +24,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      width="600mm"
-     inkscape:zoom="0.12180252"
-     inkscape:cx="-751.21599"
-     inkscape:cy="2651.8335"
+     inkscape:zoom="0.11313708"
+     inkscape:cx="2399.7436"
+     inkscape:cy="2704.6834"
      inkscape:window-width="1920"
      inkscape:window-height="949"
      inkscape:window-x="1920"
@@ -40,15 +40,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g31157"
-       transform="translate(-626.38044,-63.089853)">
+       id="g1567">
       <path
-         style="fill:#572345;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 876.47094,142.35433 50.91726,-58.466351 50.83334,60.318471 -50.0966,44.20761 z"
+         style="fill:#572345;fill-opacity:1;stroke:none;stroke-width:0.319731px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 239.58775,91.312018 301.23899,20.798126 362.78862,93.545784 301.7445,125.32421 Z"
          id="path24411"
          sodipodi:nodetypes="ccccc" />
       <g
-         id="g31141">
+         id="g31141"
+         transform="translate(-626.38044,-63.089853)">
         <g
            id="g30304"
            transform="translate(3.3297538,-1.0339006)">
