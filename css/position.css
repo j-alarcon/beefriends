@@ -27,6 +27,11 @@
     flex: 1;
 }
 
+.opacityContainer{
+    position: absolute;
+    z-index: 0;
+}
+
 section.big-section article, section.container-quote article{
     position: relative;
     z-index: 1;

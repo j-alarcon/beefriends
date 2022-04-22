@@ -1,54 +1,17 @@
-.darkpurple{
+.dark-purple-background{
     background-color: #572345;
+}
+
+.white-background{
+    background-color: white;
 }
 
 .text-shadow{
     text-shadow: 2px 2px black;
 }
 
-.high-line{
+.text-height{
     line-height: 27px;
-}
-
-.border{
-    border: 6px solid #572345;
-    border-top-left-radius: 60px;
-    border-bottom-right-radius: 60px;
-}
-
-.roundCorners{
-    border-radius: 7px;
-}
-
-.borderUser{
-    border: 6px solid #572345;
-}
-
-.white{
-    background-color: white;
-}
-
-.grey{
-    background-color: rgb(212, 212, 212);
-}
-
-.lightBlueBorder{
-    border: 4px solid #3782f0;
-}
-
-.opacityContainer{
-    background-color: rgba(0, 0, 0, 0.534);
-    width: 100%;
-    position: absolute;
-    z-index: 0;
-}
-
-section.big-section div.opacityContainer{
-    height: 600px;
-}
-
-section.container-quote div.opacityContainer{
-    height: 400px;
 }
 
 .bold{
@@ -59,12 +22,49 @@ section.container-quote div.opacityContainer{
     font-style: italic;
 }
 
-.whiteText{
+.white-text{
     color: white;
 }
 
-.blackText{
+.sans-sherif{
+    font-family: sans-serif;
+}
+
+.black-text{
    color: black;
+}
+
+.border-purple{
+    border: 6px solid #572345;
+}
+
+.border-curves{  
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
+
+.round-corners{
+    border-radius: 7px;
+}
+
+.max-width{
+    width: 100%;
+}
+
+.touch{
+    cursor: pointer;
+}
+
+.opacityContainer{
+    background-color: rgba(0, 0, 0, 0.534);
+}
+
+section.big-section div.opacityContainer{
+    height: 600px;
+}
+
+section.container-quote div.opacityContainer{
+    height: 400px;
 }
 
 .subtitles{
@@ -72,7 +72,6 @@ section.container-quote div.opacityContainer{
 }
 
 .header{
-    width: 100%;
     height: 95px;
     border-bottom: 10px solid #572345;
 }
@@ -94,7 +93,6 @@ ul{
     width: 350px;
     border-radius: 10px;
     font-size: .8rem;
-    font-family: sans-serif;
 }
 
 ul a:hover{
@@ -150,14 +148,13 @@ h3{
 }
 
 .gallery{
-    height: 400px; 
+    height: 500px; 
     text-align: justify;
-    gap: 40px;
+    gap: 80px;
 }
 
 .title-gallery{
-    padding: 5px 5px 5px 5px;
-    border: 4px solid #572345;
+    padding: 10px 10px 10px 10px;
 }
 
 section.gallery article{
