@@ -150,12 +150,12 @@ h3{
 
 .gallery{
     height: 500px; 
-    text-align: justify;
+    text-align: center;
     gap: 80px;
 }
 
 .title-gallery{
-    padding: 10px 10px 10px 10px;
+    padding: 10px 15px 10px 15px;
 }
 
 section.gallery article{
