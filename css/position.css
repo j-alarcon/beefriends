@@ -6,15 +6,15 @@
     flex-direction: column;
 }
 
-.justifyCenter{
+.justify-center{
     justify-content: center;
 }
 
-.alignCenter{
+.align-center{
     align-items: center;
 }
 
-.justifySpaceAround{
+.justify-space-around{
     justify-content: space-around;
 }
 
@@ -27,12 +27,16 @@
     flex: 1;
 }
 
-.opacityContainer{
+section.gallery article{
+    flex-wrap: wrap;
+} 
+
+.opacity-container{
     position: absolute;
     z-index: 0;
 }
 
-section.big-section article, section.container-quote article{
+.relative{
     position: relative;
     z-index: 1;
 }

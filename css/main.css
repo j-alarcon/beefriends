@@ -30,7 +30,6 @@
     color: white;
 }
 
-
 .black-text{
    color: black;
 }
@@ -56,15 +55,12 @@
     cursor: pointer;
 }
 
-.opacityContainer{
+.opacity-container{
     background-color: rgba(0, 0, 0, 0.534);
-}
-
-section.big-section div.opacityContainer{
     height: 600px;
 }
 
-section.container-quote div.opacityContainer{
+section.container-quote div.opacity-container{
     height: 400px;
 }
 
@@ -155,16 +151,17 @@ h3{
 }
 
 .title-gallery{
-    padding: 10px 15px 10px 15px;
+    padding: 10px 20px 10px 20px;
 }
 
 section.gallery article{
-    width: 1000px;
+    width: 100%;
 } 
 
 .item-gallery{
     width: 180px;
-    gap: 7px;
+    gap: 8px;
+    margin: 0 30px 0 30px;
 }
 
 .container-quote{
