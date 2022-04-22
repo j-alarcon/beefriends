@@ -27,7 +27,7 @@
     flex: 1;
 }
 
-section.big-section article{
+section.big-section article, section.container-quote article{
     position: relative;
     z-index: 1;
 }
