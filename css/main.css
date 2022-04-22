@@ -2,8 +2,8 @@
     background-color: #232d39;
 }
 
-.lightWhite{
-    background-color: rgb(255, 255, 255);
+.white{
+    background-color: white;
 }
 
 .lightblue{
@@ -28,6 +28,10 @@
 
 .whiteText{
     color: white;
+}
+
+.blackText{
+   color: black;
 }
 
 .roundCorners{
@@ -55,8 +59,16 @@
 }
 
 ul{
-    width: 500px;
-    font-size: .9rem;
+    border: 6px solid #572345;
+    padding: 5px 2px 5px 2px;
+    width: 350px;
+    border-radius: 10px;
+    font-size: .8rem;
+    font-family: sans-serif;
+}
+
+ul a:hover{
+    color: purple;
 }
 
 .big-section{
