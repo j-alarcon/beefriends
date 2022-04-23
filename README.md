@@ -1,4 +1,4 @@
-This landing page has been created using only HTML and CSS, in order to practice both technologies.
+<strong>This landing page has been created using only HTML and CSS</strong>, in order to practice both technologies.
 
 Beefriends is a simple website to help bees to find other bees to build a wonderful hive. 
 
@@ -7,3 +7,15 @@ As you can obviously suppose bees aren't able to build websites, but what if we 
 Anyway, we should be careful... We don't want them to bee-ing ruling the world... Because bees can't read, right?
 
 How awesome are you to bee part? 🐝 Bzzz...
+
+<strong>Instructions:</strong> Maybe you are on a lazy day, or you are lost in this weird website because you don't know how to use it, don't worry, I understand.
+There are two ways to see my work:
+<ul>
+    <li>
+        I want to see it right now:
+        <ol>
+            <li>Just click in this link: https://j-alarcon.github.io/beefriends/<li>
+            <li>Or you can find this link</li>
+        </ol>
+    </li>
+</ul>
