@@ -30,3 +30,4 @@ There are two ways to see my work:
         </ol>
     </li>
 </ul>
+<strong>License:</strong> You are not allowed to modify, use my code or ressources for your own proyects, even if it's everything is public.
