@@ -1,206 +1,211 @@
-.dark-purple-background{
-    background-color: #572345;
+section.big-section p,
+h2 {
+  width: 600px;
 }
 
-.white-background{
-    background-color: white;
+.quote,
+.sign {
+  width: 1000px;
 }
 
-.text-shadow-big{
-    text-shadow: 2px 2px black;
+.opacity-container,
+.big-section {
+  height: 600px;
 }
 
-.text-shadow-tiny{
-    text-shadow: 1px 1px black;
+section.container-quote div.opacity-container,
+.container-quote {
+  height: 400px;
 }
 
-.text-height{
-    line-height: 27px;
+u .dark-purple-background {
+  background-color: #572345;
 }
 
-.bold{
-    font-weight: bold;
+.white-background {
+  background-color: white;
 }
 
-.italic{
-    font-style: italic;
+.text-shadow-big {
+  text-shadow: 2px 2px black;
 }
 
-.white-text{
-    color: white;
+.text-shadow-tiny {
+  text-shadow: 1px 1px black;
 }
 
-.black-text{
-   color: black;
+.text-height {
+  line-height: 27px;
 }
 
-.border-purple{
-    border: 6px solid #572345;
+.bold {
+  font-weight: bold;
 }
 
-.border-curves{  
-    border-top-left-radius: 60px;
-    border-bottom-right-radius: 60px;
+.italic {
+  font-style: italic;
 }
 
-.round-corners{
-    border-radius: 7px;
+.subtitles {
+  font-size: 0.9rem;
 }
 
-.max-width{
-    width: 100%;
+.bellarush {
+  font-family: Bellarush;
 }
 
-.touch{
-    cursor: pointer;
+.white-text {
+  color: white;
 }
 
-.opacity-container{
-    background-color: rgba(0, 0, 0, 0.534);
-    height: 600px;
+.black-text {
+  color: black;
 }
 
-section.container-quote div.opacity-container{
-    height: 400px;
+.text-center {
+  text-align: center;
 }
 
-.subtitles{
-    font-size: .9rem;
+.text-justify {
+  text-align: justify;
 }
 
-.header{
-    height: 95px;
-    border-bottom: 10px solid #572345;
+.border-purple {
+  border: 6px solid #572345;
 }
 
-.header h1{
-    margin: 16px 0 3px 5px;
-    font-family: Bellarush;
-    font-size: 3.3rem;
+.border-curves {
+  border-top-left-radius: 60px;
+  border-bottom-right-radius: 60px;
 }
 
-.header img{
-    width: 50px;
+.round-corners {
+  border-radius: 7px;
 }
 
-ul{
-    margin-top: 10px;
-    border: 6px solid #572345;
-    padding: 5px 2px 5px 2px;
-    width: 350px;
-    border-radius: 10px;
-    font-size: .8rem;
+.max-width {
+  width: 100%;
 }
 
-ul a:hover{
-    color: purple;
+.touch {
+  cursor: pointer;
 }
 
-.main{
-    padding-top: 80px;
+.opacity-container {
+  background-color: rgba(0, 0, 0, 0.534);
 }
 
-.big-section{
-    height: 600px;
-    gap: 36px;
-    background-image: url("../img/hive.jpg");
+.header {
+  height: 95px;
+  border-bottom: 10px solid #572345;
 }
 
-section.big-section article:first-child{
-    width: 456px;
+.header h1 {
+  margin: 16px 0 3px 5px;
+  font-size: 3.3rem;
 }
 
-section.big-section p{
-    text-align: justify;
-    width: 600px;
-    margin-top: 7px;
+.header img {
+  width: 50px;
 }
 
-h2{
-    width: 600px;
-    font-size: 2.2rem;
+ul {
+  margin-top: 10px;
+  padding: 5px 2px 5px 2px;
+  width: 350px;
+  border-radius: 10px;
+  font-size: 0.8rem;
 }
 
-.img-big{
-    width: 400px;
-    height: auto;
+ul a:hover {
+  color: purple;
 }
 
-.img-medium{
-    width: 200px;
-    height: 135px;
+button:hover {
+  background-color: purple;
 }
 
-section.big-section button{
-    border: none;
-    padding: 5px 25px 8px 25px;
-    margin-top: 15px;
+.main {
+  padding-top: 80px;
 }
 
-h3{
-    font-size: 1.6rem;
-    width: 800px;
-    padding: 10px 10px 10px 10px;
-    background-color: #572345;
+.big-section {
+  gap: 36px;
+  background-image: url("../img/hive.jpg");
 }
 
-.gallery{
-    height: 500px; 
-    text-align: center;
-    gap: 80px;
+section.big-section article:first-child {
+  width: 456px;
 }
 
-.title-gallery{
-    padding: 10px 20px 10px 20px;
+section.big-section p {
+  margin-top: 7px;
 }
 
-section.gallery article{
-    width: 100%;
-} 
-
-.item-gallery{
-    width: 180px;
-    gap: 8px;
-    margin: 0 30px 0 30px;
+h2 {
+  font-size: 2.2rem;
 }
 
-.container-quote{
-    height: 400px;
-    background-image: url("../img/sunflowers.jpg");
-    background-position: 0 550px;
+.img-big {
+  width: 400px;
+  height: auto;
 }
 
-.quote{
-    width: 1000px;
+.img-medium {
+  width: 200px;
+  height: 135px;
 }
 
-.quote p:not(p.author){
-    font-size: 1.3rem;
-    margin-bottom: 15px;
+section.big-section button {
+  border: none;
+  padding: 5px 25px 8px 25px;
+  margin-top: 15px;
 }
 
-.author{
-    align-self: flex-end;
+h3 {
+  font-size: 1.6rem;
+  width: 800px;
+  padding: 10px 10px 10px 10px;
 }
 
-.signup{
-    height: 300px;
+.gallery {
+  height: 500px;
+  gap: 80px;
 }
 
-.sign{
-    width: 1000px;
-    padding: 40px 100px 40px 100px;
+.title-gallery {
+  padding: 10px 20px 10px 20px;
 }
 
-.sign button{
-    border: 2px solid white;
-    padding: 5px 40px 7px 40px;
+.item-gallery {
+  width: 180px;
+  gap: 8px;
+  margin: 0 30px 0 30px;
 }
 
-button:hover{
-    background-color: purple;
+.container-quote {
+  background-image: url("../img/sunflowers.jpg");
+  background-position: 0 550px;
 }
 
-footer{
-    height: 100px;
+.quote p:not(p.author) {
+  font-size: 1.3rem;
+  margin-bottom: 15px;
+}
+
+.signup {
+  height: 300px;
+}
+
+.sign {
+  padding: 40px 100px 40px 100px;
+}
+
+.sign button {
+  border: 2px solid white;
+  padding: 5px 40px 7px 40px;
+}
+
+footer {
+  height: 100px;
 }
