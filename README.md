@@ -12,21 +12,21 @@ How awesome are you to bee part? 🐝 Bzzz...
 There are two ways to see my work:
 <ul>
     <li>
-        I want to see it right now:
+        <em>I want to see it right now:</em>
         <ol>
             <li>Just click in this link: https://j-alarcon.github.io/beefriends/</li>
-            <li>Or you can find this link in the environments category at your right by clicking view deployment inside this one</li>
+            <li>Or you can find the link in the environments category at your right by clicking view deployment inside this one.</li>
         </ol>
     </li>
     <li>
-        I would like to have it on my machine:
+        <em>I would like to have it on my machine:</em>
         <ol>
-            <li>Do you see the green button with the world code on top?</li>
+            <li>Do you see the green button with the word code on top?</li>
             <li>If the answer is affirmative: Click it. If not, keep looking.</li>
-            <li>Download zip</li>
-            <li>Extract the file</li>
-            <li>Move the directory to your favourite place</li>
-            <li>Click the index.html file inside of it</li>
+            <li>Download zip.</li>
+            <li>Extract the file.</li>
+            <li>Move the directory to your favourite place.</li>
+            <li>Click the index.html file inside of it.</li>
         </ol>
     </li>
 </ul>
