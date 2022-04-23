@@ -1,5 +1,65 @@
-@media screen and (max-width: 1100px){
-    section.big-section{
-        flex-direction: column-reverse;
-    }
+@media screen and (max-width: 1100px) {
+  section.big-section {
+    flex-direction: column-reverse;
+  }
+
+  .item-gallery {
+    margin: 20px 30px 20px 30px;
+  }
+
+  .container-quote,
+  section.container-quote div.opacity-container {
+    height: 300px;
+  }
+
+  .quote {
+    width: 90%;
+    text-align: justify;
+  }
+
+  .quote p:not(p.author) {
+    font-size: 1.1rem;
+  }
+
+  section.signup article {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .sign {
+    width: 90%;
+    padding: 40px 40px 40px 40px;
+  }
+
+  article.sign h4,
+  article.sign p {
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  header img {
+     
+  }
+
+  ul {
+    margin-top: 10px;
+    padding: 5px 2px 5px 2px;
+    width: 170px;
+    border-radius: 10px;
+    font-size: 0.6rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+    width: 100%;
+  }
+
+  section.big-section p {
+    width: 330px;
+  }
+
+  .img-big {
+    width: 300px;
+  }
 }
