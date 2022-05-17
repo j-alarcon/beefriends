@@ -24,12 +24,8 @@ h2 {
   background-color: white;
 }
 
-.text-shadow-big {
-  text-shadow: 0.13rem 0.13rem black;
-}
-
-.text-shadow-tiny {
-  text-shadow: 0.06rem 0.06rem black;
+.text-shadow {
+  text-shadow: 1px 1px black;
 }
 
 .text-height {
