@@ -8,14 +8,17 @@ h2 {
   width: 62.5rem;
 }
 
-.opacity-container,
+.opacity-container{
+  height: 100%;
+}
+
 .big-section {
-  height: 37.5rem;
+  height: 55vh;
 }
 
 section.container-quote div.opacity-container,
 .container-quote {
-  height: 25rem;
+  height: 100%;
 }
 
 .dark-purple-background {
@@ -114,7 +117,7 @@ body {
 }
 
 .header img {
-  width: 3.13rem;
+  width: 3rem;
 }
 
 ul {
@@ -134,7 +137,7 @@ button:hover {
 }
 
 .main {
-  flex: 1;
+  min-height: calc(100vh - (80px + 50px));
   padding-top: 5rem;
 }
 
@@ -162,7 +165,7 @@ h2 {
 }
 
 .img-medium {
-  width: 12.5rem;
+  width: 12rem;
   height: 8.44rem;
 }
 
@@ -196,7 +199,9 @@ h3 {
 .container-quote {
   background-image: url("../img/sunflowers.jpg");
   background-size: cover;
-  background-position: 0 34.38rem;
+  position: relative;
+  height: 30vh;
+  background-position: 0 80%;
 }
 
 .quote p:not(p.author) {
@@ -218,6 +223,6 @@ h3 {
 }
 
 footer {
-  height: 100rem;
+  height: 10rem;
   width: 100%;
 }
