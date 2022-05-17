@@ -71,7 +71,7 @@ section.container-quote div.opacity-container,
 }
 
 .border-purple {
-  border: 0.38rem solid #572345;
+  border: 8px solid #572345;
 }
 
 .border-curves {
@@ -118,7 +118,7 @@ ul {
   padding: 0.31rem 0.13rem 0.31rem 0.13rem;
   width: 21.9rem;
   border-radius: 0.6rem;
-  font-size: .9rem;
+  font-size: .95rem;
 }
 
 ul a:hover {
