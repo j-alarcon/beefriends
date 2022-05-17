@@ -3,7 +3,7 @@
   <head>
     <title>Beefriends - 🐝 bzzz</title>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <link rel="icon" href="img/beefriends-icon.svg" />
     <link rel="stylesheet" href="css/reset.css" />
     <link rel="stylesheet" href="css/fonts.css" />
@@ -36,7 +36,7 @@
         class="darkblue big-section flex align-center justify-center relative"
         id="about-us"
       >
-        <div class="opacity-container max-width"></div>
+        <div class="opacity-container max-width max-height"></div>
         <article class="white-text relative">
           <h2 class="text-shadow-big">Are you looking for a hive?</h2>
           <p class="subtitles text-height text-shadow-big text-justify">
@@ -68,7 +68,7 @@
         >
           Our team
         </h3>
-        <article class="flex justify-center">
+        <article class="flex justify-center wrap">
           <div class="item-gallery flex column align-center">
             <h4
               class="title-gallery dark-purple-background white-text text-shadow-tiny round-corners"
@@ -133,8 +133,10 @@
           </div>
         </article>
       </section>
-      <section class="flex justify-center align-center container-quote">
-        <div class="opacity-container max-width"></div>
+      <section
+        class="flex justify-center align-center container-quote relative max-height"
+      >
+        <div class="opacity-container max-width max-height"></div>
         <article class="flex column quote relative">
           <p class="white-text italic text-hight text-shadow-big">
             One day, one bee say to the other: Doesn't matter if you are the
@@ -142,7 +144,9 @@
             are cute enough to get some wine. Yeah, you don't need wine, but I
             wanted a rhyme.
           </p>
-          <p class="author white-text bold text-shadow-big">-Some bee</p>
+          <p class="author self-flex-end white-text bold text-shadow-big">
+            -Some bee
+          </p>
         </article>
       </section>
       <section class="signup flex justify-center align-center">
@@ -169,7 +173,6 @@
     </main>
     <footer
       class="dark-purple-background white-text flex align-center justify-center"
-    >
-    </footer>
+    ></footer>
   </body>
 </html>

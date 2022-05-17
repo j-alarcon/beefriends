@@ -10,25 +10,25 @@
   justify-content: center;
 }
 
-.author {
-  align-self: flex-end;
+.justify-space-around {
+  justify-content: space-around;
 }
 
 .align-center {
   align-items: center;
 }
 
-.justify-space-around {
-  justify-content: space-around;
+.self-flex-end {
+  align-self: flex-end;
+}
+
+.wrap {
+  flex-wrap: wrap;
 }
 
 .header {
   position: fixed;
   z-index: 2;
-}
-
-section.gallery article {
-  flex-wrap: wrap;
 }
 
 .opacity-container {
