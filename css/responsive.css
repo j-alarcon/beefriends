@@ -35,6 +35,11 @@
   article.sign p {
     font-size: 0.8rem;
   }
+
+  #about-us,
+  #about-us .opacity-container {
+    height: 660px;
+  }
 }
 
 @media only screen and (max-width: 650px) {
@@ -45,6 +50,7 @@
 
   ul {
     width: 180px;
+    padding-top: 5px;
     font-size: 0.65rem;
   }
 
@@ -54,10 +60,15 @@
   }
 
   section.big-section p {
-    width: 330px;
+    width: 310px;
   }
 
   .img-big {
     width: 300px;
+  }
+
+  #about-us,
+  #about-us .opacity-container {
+    height: 660px;
   }
 }

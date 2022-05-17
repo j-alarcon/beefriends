@@ -27,10 +27,6 @@
   z-index: 2;
 }
 
-.main {
-  flex: 1;
-}
-
 section.gallery article {
   flex-wrap: wrap;
 }
