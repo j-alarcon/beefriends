@@ -50,8 +50,8 @@ section.container-quote div.opacity-container,
   font-size: 0.9rem;
 }
 
-.bellarush {
-  font-family: Bellarush;
+.sriracha {
+  font-family: "Sriracha";
 }
 
 .white-text {
@@ -95,6 +95,10 @@ section.container-quote div.opacity-container,
   background-color: rgba(0, 0, 0, 0.534);
 }
 
+body {
+  font-family: "Laila", sans-serif;
+}
+
 .header {
   height: 5.94rem;
   border-bottom: 0.63rem solid #572345;
@@ -102,7 +106,7 @@ section.container-quote div.opacity-container,
 
 .header h1 {
   margin: 1rem 0 0.2rem 0.3rem;
-  font-size: 3.3rem;
+  font-size: 1.8rem;
 }
 
 .header img {
