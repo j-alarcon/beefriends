@@ -87,6 +87,10 @@ section.container-quote div.opacity-container,
   width: 100%;
 }
 
+.max-height{
+  height: 100%;
+}
+
 .touch {
   cursor: pointer;
 }
