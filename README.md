@@ -18,6 +18,7 @@ There are two ways to see my work:
             <li>Or you can find the link in the environments category on your right by clicking view deployment inside this one <strong>(You need a Github's account)</strong>.</li>
         </ol>
     </li>
+    </br>
     <li>
         <em>I would like to have it on my machine:</em>
         <ol>
