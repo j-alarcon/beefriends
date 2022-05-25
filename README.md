@@ -14,8 +14,8 @@ There are two ways to see my work:
     <li>
         <em>I want to see it right now:</em>
         <ol>
-            <li>Just click in this link: https://j-alarcon.github.io/beefriends/</li>
-            <li>Or you can find the link in the environments category at your right by clicking view deployment inside this one <strong>(You need a Github's account)</strong>.</li>
+            <li>Just click on this link: https://j-alarcon.github.io/beefriends/</li>
+            <li>Or you can find the link in the environments category on your right by clicking view deployment inside this one <strong>(You need a Github's account)</strong>.</li>
         </ol>
     </li>
     <li>
@@ -30,5 +30,5 @@ There are two ways to see my work:
         </ol>
     </li>
 </ul>
-<strong>License:</strong> You are not allowed to modify, use my code or ressources for your own proyects without my consent, even if it's everything is public.
+<strong>License:</strong> You are not allowed to modify, use my code or resources for your own projects without my consent, even if it's everything is public.
 If you do not follow the preceding, I might take legal actions against you.
